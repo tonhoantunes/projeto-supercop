@@ -19,6 +19,19 @@ body {
     background-color: #f4f4f4;
     padding: 1rem;
     display: block;
-    border-left: 4px solid #007bff;
+    border-left: 4px solid #fad429;
   }
-  
+
+  .titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #f91b1f;
+    margin: 2rem 0 1.5rem;
+  }
+
+  #logo-fonte {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+  }
